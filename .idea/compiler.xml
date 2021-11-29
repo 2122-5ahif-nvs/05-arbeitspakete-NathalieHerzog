@@ -18,6 +18,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="01_websockets" options="-parameters" />
+      <module name="02_eventbus" options="-parameters" />
     </option>
   </component>
 </project>
