@@ -23,4 +23,9 @@ public class GreetingService {
     public Uni<String> process(String name) {
         return Uni.createFrom().item(name::toUpperCase).emitOn(executor);
     }
+
+    @ConsumeEvent("greeting")
+    public String greeting(String name) {
+        return "Hello " + name;
+    }
 }
