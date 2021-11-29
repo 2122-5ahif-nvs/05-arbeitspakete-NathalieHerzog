@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_websockets/01_websockets.iml" filepath="$PROJECT_DIR$/01_websockets/01_websockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_eventbus/02_eventbus.iml" filepath="$PROJECT_DIR$/02_eventbus/02_eventbus.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/05-arbeitspakete-NathalieHerzog.iml" filepath="$PROJECT_DIR$/.idea/05-arbeitspakete-NathalieHerzog.iml" />
     </modules>
   </component>
